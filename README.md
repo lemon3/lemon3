@@ -1,12 +1,16 @@
 ### Hi there 🤙
 
+#### Demos
+**[BirthdayPicker Demo >>](https://lemon3.github.io/birthdaypicker/)**
+
+**[TextHighlight Demo >>](https://lemon3.github.io/texthighlight/)**
+
 #### Skills
-Here are some of my skills:
 
 ![js-shield] ![html-shield] ![css-shield] ![sass-shield] ![php-shield] ![vue-shield] ![react-shield] ![svelte-shield] ![md-shield] ![tw-shield] ![bs-shield] ![laravel-shield] ![mysql-shield] ![sqlite-shield] ![jq-shield] ![shell-shield]
 
 #### my favorit linters
-what would I do without you:
+what would I do without you
 
 ![linter-eslint] ![linter-prettier]
 
