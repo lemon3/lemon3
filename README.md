@@ -9,7 +9,7 @@
 
 ![js-shield] ![html-shield] ![css-shield] ![sass-shield] ![php-shield] ![vue-shield] ![react-shield] ![svelte-shield] ![md-shield] ![tw-shield] ![bs-shield] ![laravel-shield] ![mysql-shield] ![sqlite-shield] ![jq-shield] ![shell-shield]
 
-#### my favorit linters
+#### My favorite linters
 what would I do without you
 
 ![linter-eslint] ![linter-prettier]
