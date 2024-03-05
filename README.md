@@ -1,7 +1,4 @@
 ### Hi there 🤙
-my repos on github:
-
-![most-used]
 
 #### Skills
 Here are some of my skills:
@@ -32,9 +29,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- most used -->
-[most-used]: https://github-readme-stats.vercel.app/api/top-langs/?username=lemon3&theme=blue-green
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [html-shield]: https://img.shields.io/badge/HTML5-e34d28?style=for-the-badge&logo=html5&logoColor=white
