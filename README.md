@@ -3,7 +3,7 @@
 #### Skills
 Here are some of my skills:
 
-![js-shield] ![html-shield] ![css-shield] ![sass-shield] ![php-shield] ![vue-shield] ![react-shield] ![svelte-shield] ![md-shield] ![shell-shield] ![tw-shield] ![bs-shield] ![laravel-shield] ![mysql-shield] ![sqlite-shield] ![jq-shield]
+![js-shield] ![html-shield] ![css-shield] ![sass-shield] ![php-shield] ![vue-shield] ![react-shield] ![svelte-shield] ![md-shield] ![tw-shield] ![bs-shield] ![laravel-shield] ![mysql-shield] ![sqlite-shield] ![jq-shield] ![shell-shield]
 
 #### my favorit linters
 what would I do without you:
