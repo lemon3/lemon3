@@ -8,7 +8,7 @@ Here are some of my skills:
 #### my favorit linters
 what would I do without you:
 
-![linter-eslint] ![linter-prettier].
+![linter-eslint] ![linter-prettier]
 
 #### my “toy” (computer)
 has never let me down ...
