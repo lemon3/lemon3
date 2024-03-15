@@ -7,7 +7,7 @@
 
 #### Skills
 
-![js-shield] ![html-shield] ![css-shield] ![sass-shield] ![php-shield] ![vue-shield] ![react-shield] ![svelte-shield] ![md-shield] ![tw-shield] ![bs-shield] ![laravel-shield] ![mysql-shield] ![sqlite-shield] ![jq-shield] ![shell-shield]
+![js-shield] ![html-shield] ![css-shield] ![sass-shield] ![php-shield] ![vue-shield] ![react-shield] ![svelte-shield] ![alpinejs-shield] ![md-shield] ![tw-shield] ![bs-shield] ![laravel-shield] ![mysql-shield] ![sqlite-shield] ![jq-shield] ![shell-shield]
 
 #### My favorite linters
 what would I do without you
@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [html-shield]: https://img.shields.io/badge/HTML5-e34d28?style=for-the-badge&logo=html5&logoColor=white
+
+[alpinejs-shield]: https://img.shields.io/badge/alpinejs-77c1d2?&style=for-the-badge&logo=alpinejs&logoColor=white
 
 [css-shield]: https://img.shields.io/badge/CSS3-0075c0?&style=for-the-badge&logo=css3&logoColor=white
 
