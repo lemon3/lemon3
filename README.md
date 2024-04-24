@@ -1,6 +1,8 @@
 ### Hi there 🤙
 
 #### Demos
+**[Slick Image Compare >>](https://lemon3.github.io/slick-image-compare/)**
+
 **[BirthdayPicker Demo >>](https://lemon3.github.io/birthdaypicker/)**
 
 **[TextHighlight Demo >>](https://lemon3.github.io/texthighlight/)**
