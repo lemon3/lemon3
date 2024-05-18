@@ -13,17 +13,17 @@
 
 #### Skills
 
-![js-shield] ![html-shield] ![css-shield] ![sass-shield] ![php-shield] ![vue-shield] ![react-shield] ![svelte-shield] ![alpinejs-shield] ![md-shield] ![tw-shield] ![bs-shield] ![laravel-shield] ![mysql-shield] ![sqlite-shield] ![jq-shield] ![shell-shield]
+[![js][js-shield]](#) [![html][html-shield]](#) [![css][css-shield]](#) [![sass][sass-shield]](#) [![php][php-shield]](#) [![vue][vue-shield]](#) [![react][react-shield]](#) [![svelte][svelte-shield]](#) [![alpinejs][alpinejs-shield]](#) [![md][md-shield]](#) [![tw][tw-shield]](#) [![bs][bs-shield]](#) [![laravel][laravel-shield]](#) [![mysql][mysql-shield]](#) [![sqlite][sqlite-shield]](#) [![jq][jq-shield]](#) [![shell][shell-shield]](#) 
 
 #### My favorite linters
 what would I do without you
 
-![linter-eslint] ![linter-prettier]
+[![eslint][linter-eslint]](#) [![prettier][linter-prettier]](#)
 
 #### my “toy” (computer)
 has never let me down ...
 
-![mac-os]
+[![mac-os][mac-os]](#)
 
 <!--
 **lemon3/lemon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
