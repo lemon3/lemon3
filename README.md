@@ -1,6 +1,11 @@
 ### Hi there 🤙
+I'm Wolfgang
+- I love programming cool things.
+- I like taking photos (and have done so since I was 6 years old)
 
-#### Demos
+---
+
+#### js Demos
 **[Slick Image Compare >>](https://lemon3.github.io/slick-image-compare/)**
 
 **[BirthdayPicker Demo >>](https://lemon3.github.io/birthdaypicker/)**
