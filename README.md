@@ -1,49 +1,45 @@
 ### Hi there 🤙
-I'm Wolfgang
-- I love programming cool things.
-- I like taking photos (and have done so since I was 6 years old)
+I'm Wolfgang, a passionate developer with a love for creating cool things.
+
+I enjoy programming and taking photos (a hobby I've had since I was 6 years old)
 
 ---
 
-#### js Demos
-**[Slick Image Compare >>](https://lemon3.github.io/slick-image-compare/)**
+#### Projects
+Here are some of my notable projects:
+* [Slick Image Compare](https://github.com/lemon3/slick-image-compare)
 
-**[BirthdayPicker Demo >>](https://lemon3.github.io/birthdaypicker/)**
+  A JavaScript library for comparing images **[Demo](https://lemon3.github.io/slick-image-compare/)**
+  
+* [Live Number Formatter](https://github.com/lemon3/live-number-formatter)
 
-**[TextHighlight Demo >>](https://lemon3.github.io/texthighlight/)**
+  A Typescript library to formate numbers while typing **[Demo](https://lemon3.github.io/live-number-formatter/)**
+  
+* [BirthdayPicker](https://github.com/lemon3/birthdaypicker)
 
-**[zero2one Demo >>](https://lemon3.github.io/zero2one/)**
+  A fast birthday picker component **[Demo](https://lemon3.github.io/birthdaypicker/)**
+ 
+* [TextHighlight](https://github.com/lemon3/texthighlight)
+  
+  A text highlighting component **[Demo](https://lemon3.github.io/texthighlight/)**
+  
+* [zero2one](https://github.com/lemon3/zero2one)
 
-
+  A small animation helper **[Demo](https://lemon3.github.io/zero2one/)**
 
 #### Skills
+I'm proficient in a range of technologies, including:
 
-[![js][js-shield]](#) [![html][html-shield]](#) [![css][css-shield]](#) [![sass][sass-shield]](#) [![php][php-shield]](#) [![vue][vue-shield]](#) [![react][react-shield]](#) [![svelte][svelte-shield]](#) [![alpinejs][alpinejs-shield]](#) [![md][md-shield]](#) [![tw][tw-shield]](#) [![bs][bs-shield]](#) [![laravel][laravel-shield]](#) [![mysql][mysql-shield]](#) [![sqlite][sqlite-shield]](#) [![jq][jq-shield]](#) [![shell][shell-shield]](#) 
+[![js][js-shield]](#) [![ts][ts-shield]](#) [![html][html-shield]](#) [![css][css-shield]](#) [![sass][sass-shield]](#) [![php][php-shield]](#) [![vue][vue-shield]](#) [![react][react-shield]](#) [![svelte][svelte-shield]](#) [![alpinejs][alpinejs-shield]](#) [![md][md-shield]](#) [![tw][tw-shield]](#) [![bs][bs-shield]](#) [![laravel][laravel-shield]](#) [![mysql][mysql-shield]](#) [![sqlite][sqlite-shield]](#) [![jq][jq-shield]](#) [![shell][shell-shield]](#)
 
-#### My favorite linters
-what would I do without you
+#### Tools
+I use the following tools to keep my code clean, organized, and thoroughly tested:
 
-[![eslint][linter-eslint]](#) [![prettier][linter-prettier]](#)
+[![eslint][linter-eslint]](#) [![prettier][linter-prettier]](#) [![jest][jest-shield]](#) [![vitest][vitest-shield]](#)
 
-#### my “toy” (computer)
-has never let me down ...
 
-[![mac-os][mac-os]](#)
-
-<!--
-**lemon3/lemon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My Setup
+I work on a [![mac-os][mac-os]](#) machine, which has never let me down.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [html-shield]: https://img.shields.io/badge/HTML5-e34d28?style=for-the-badge&logo=html5&logoColor=white
@@ -53,6 +49,8 @@ Here are some ideas to get you started:
 [css-shield]: https://img.shields.io/badge/CSS3-0075c0?&style=for-the-badge&logo=css3&logoColor=white
 
 [js-shield]: https://img.shields.io/badge/JavaScript-fbde34?style=for-the-badge&logo=javascript&logoColor=black
+
+[ts-shield]: https://img.shields.io/badge/TyeScript-3078c6?style=for-the-badge&logo=typescript&logoColor=white
 
 [sass-shield]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 
@@ -83,6 +81,11 @@ Here are some ideas to get you started:
 <!-- linters -->
 [linter-eslint]: https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
 [linter-prettier]: https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E
+
+<!-- testing -->
+[jest-shield]: https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white
+[vitest-shield]: https://img.shields.io/badge/Vitest-646CFF?style=for-the-badge&logo=vitest&logoColor=white
+
 
 <!-- other -->
 [mac-os]: https://img.shields.io/badge/mac_os-000000?style=for-the-badge&logo=apple&logoColor=white
