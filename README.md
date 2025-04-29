@@ -9,7 +9,7 @@ I enjoy programming and taking photos (a hobby I've had since I was 6 years old)
 Here are some of my notable projects:
 * [Slick Image Compare](https://github.com/lemon3/slick-image-compare)
 
-  A JavaScript library for comparing images **[Demo](https://lemon3.github.io/slick-image-compare/)**
+  A JavaScript library for comparing images **[Demo, Docs](https://slick-image-compare-docs.onrender.com/)**
   
 * [Live Number Formatter](https://github.com/lemon3/live-number-formatter)
 
