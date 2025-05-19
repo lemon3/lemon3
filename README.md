@@ -12,7 +12,8 @@ Here are some of my notable projects:
   A JavaScript library for comparing images **[Demo, Docs](https://slick-image-compare-docs.onrender.com/)**
 
 * [Pwkit](https://github.com/lemon3/pwkit)
-A Modern, customizable password generator and tester with entropy analysis and flexible character group settings. **[Demo](https://lemon3.github.io/pwkit/)**
+
+  A Modern, customizable password generator and tester with entropy analysis and flexible character group settings. **[Demo](https://lemon3.github.io/pwkit/)**
 
 * [Live Number Formatter](https://github.com/lemon3/live-number-formatter)
 
