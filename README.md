@@ -3,6 +3,8 @@ I'm Wolfgang, a passionate developer with a love for creating cool things.
 
 I enjoy programming and taking photos (a hobby I've had since I was 6 years old)
 
+![coding cat](https://raw.githubusercontent.com/lemon3/lemon3/refs/heads/main/_assets/cat_01.gif)
+
 ---
 
 #### Projects
@@ -18,15 +20,15 @@ Here are some of my notable projects:
 * [Live Number Formatter](https://github.com/lemon3/live-number-formatter)
 
   A Typescript library to formate numbers while typing **[Demo](https://lemon3.github.io/live-number-formatter/)**
-  
+
 * [BirthdayPicker](https://github.com/lemon3/birthdaypicker)
 
   A fast birthday picker component **[Demo](https://lemon3.github.io/birthdaypicker/)**
- 
+
 * [TextHighlight](https://github.com/lemon3/texthighlight)
-  
+
   A text highlighting component **[Demo](https://lemon3.github.io/texthighlight/)**
-  
+
 * [zero2one](https://github.com/lemon3/zero2one)
 
   A small animation helper **[Demo](https://lemon3.github.io/zero2one/)**
